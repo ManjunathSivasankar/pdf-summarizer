@@ -12,6 +12,12 @@ A modern, clean web application that uses Google Gemini AI to summarize PDF and 
 - 📥 **Download Summaries**: Save your AI-generated summaries as text files.
 - 🎨 **Responsive UI**: A beautiful, minimal interface built with Tailwind CSS and Framer Motion.
 
+## 📸 Screenshots
+
+| Upload Document | AI Processing | Summary Results |
+| :---: | :---: | :---: |
+| ![Upload](screenshots/upload.png) | ![Processing](screenshots/processing.png) | ![Results](screenshots/results.png) |
+
 ## 🛠️ Tech Stack
 
 ### Frontend
